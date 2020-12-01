@@ -1,0 +1,680 @@
+let createStudent1 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www101@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www101",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www101@hotmail.com').set(createStudent1);
+
+let createStudent2 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www102@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www102@hotmail.com').set(createStudent2);
+
+let createStudent3 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www103@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www103@hotmail.com').set(createStudent3);
+
+let createStudent4 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www104@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www104@hotmail.com').set(createStudent4);
+
+let createStudent5 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www105@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www105@hotmail.com').set(createStudent5);
+
+let createStudent6 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www106@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www106@hotmail.com').set(createStudent6);
+
+let createStudent7 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www107@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www107@hotmail.com').set(createStudent7);
+
+let createStudent8 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www108@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www108@hotmail.com').set(createStudent8);
+
+let createStudent9 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www109@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www109@hotmail.com').set(createStudent9);
+
+let createStudent10 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www110@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www110@hotmail.com').set(createStudent10);
+
+let createStudent11 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www111@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www111@hotmail.com').set(createStudent11);
+
+let createStudent12 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www112@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www112@hotmail.com').set(createStudent12);
+
+let createStudent13 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www113@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www113@hotmail.com').set(createStudent13);
+
+let createStudent14 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www114@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www114@hotmail.com').set(createStudent14);
+
+let createStudent15 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www115@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www115@hotmail.com').set(createStudent15);
+
+let createStudent16 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www116@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www116@hotmail.com').set(createStudent16);
+
+let createStudent17 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www117@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www117@hotmail.com').set(createStudent17);
+
+let createStudent18 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www118@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www118@hotmail.com').set(createStudent18);
+
+let createStudent19 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www119@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www119@hotmail.com').set(createStudent19);
+
+let createStudent20 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www120@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www120@hotmail.com').set(createStudent20);
+
+let createStudent21 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www121@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www121@hotmail.com').set(createStudent21);
+
+let createStudent22 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www122@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www122@hotmail.com').set(createStudent22);
+
+let createStudent23 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www123@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www123@hotmail.com').set(createStudent23);
+
+let createStudent24 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www124@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www124@hotmail.com').set(createStudent24);
+
+let createStudent25 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www125@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www125@hotmail.com').set(createStudent25);
+
+let createStudent26 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www126@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www126@hotmail.com').set(createStudent26);
+
+let createStudent27 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www127@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www127@hotmail.com').set(createStudent27);
+
+let createStudent28 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www128@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www128@hotmail.com').set(createStudent28);
+
+let createStudent29 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www129@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www129@hotmail.com').set(createStudent29);
+
+let createStudent30 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www130@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www130@hotmail.com').set(createStudent30);
+
+let createStudent31 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www131@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www131@hotmail.com').set(createStudent31);
+
+let createStudent32 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www132@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www132@hotmail.com').set(createStudent32);
+
+let createStudent33 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www133@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www133@hotmail.com').set(createStudent33);
+
+let createStudent34 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www134@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www134@hotmail.com').set(createStudent34);
+
+let createStudent35 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www135@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www135@hotmail.com').set(createStudent35);
+
+let createStudent36 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www136@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www136@hotmail.com').set(createStudent36);
+
+let createStudent37 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www137@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www137@hotmail.com').set(createStudent37);
+
+let createStudent38 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www138@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www138@hotmail.com').set(createStudent38);
+
+let createStudent39 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www139@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www139@hotmail.com').set(createStudent39);
+
+let createStudent40 = {
+                birthDate: 2,
+                birthMonth: 7,
+                birthYear: 2019,
+                birthday: '2/7/2019',
+                email: 'www140@hotmail.com',
+                firstname: 'teacher1',
+                gender: "Male",
+                lastname: 'ttttt',
+                level: 'มัธยมศึกษาปีที่ 1',
+                password: "www102",
+                pretest: false,
+                userType: "users",
+                user_id: 'xxxxxxx',
+            }
+db.collection('users').doc('www140@hotmail.com').set(createStudent40);
+
